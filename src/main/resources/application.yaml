@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: jvav
+
+
+github:
+  clientId: 123
+  appId: 321
+
+jwt:
+  secret_key: "jvav@!!WQsad"
